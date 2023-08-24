@@ -1,7 +1,4 @@
 
-Introduction
-------------
-
 Artificial Intelligence (AI) has become an essential tool in various fields, including disaster management. AI technologies such as machine learning have the potential to provide decision-makers with valuable insights for responding to natural disasters. This chapter provides a background and fundamentals of AI, focusing on machine learning techniques.
 
 What is Artificial Intelligence?
