@@ -1,5 +1,3 @@
-Chapter 6: Environmental Impact and Sustainability
-==================================================
 
 The use of Artificial Intelligence (AI) in disaster management has significant potential to improve response efforts and reduce the impact of natural disasters on communities. However, AI technologies also have an environmental impact that must be considered. This chapter will explore the role of AI in promoting sustainability and reducing the carbon footprint of disaster management operations.
 

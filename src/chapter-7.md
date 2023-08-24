@@ -1,5 +1,3 @@
-Chapter 7: Ethical and Legal Issues Related to AI in Disaster Management
-========================================================================
 
 The use of artificial intelligence (AI) in disaster management has become increasingly prevalent in recent years. However, as with any emerging technology, there are ethical and legal issues that need to be considered. This chapter will explore the ethical considerations and legal framework surrounding the use of AI in disaster management.
 

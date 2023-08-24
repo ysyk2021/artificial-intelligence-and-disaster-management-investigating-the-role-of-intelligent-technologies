@@ -1,5 +1,3 @@
-Carbon Footprint Reduction
-==============================================================================
 
 Natural disasters can have a significant impact on the environment, and disaster management efforts must take into account the need to reduce carbon emissions and promote sustainability. In recent years, advances in artificial intelligence (AI) have led to the development of AI-powered solutions for reducing carbon emissions during disaster management.
 

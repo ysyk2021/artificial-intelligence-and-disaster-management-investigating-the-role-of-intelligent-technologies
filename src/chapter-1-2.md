@@ -1,5 +1,3 @@
-Purpose of the Book
-============================================
 
 Natural disasters such as hurricanes, earthquakes, tsunamis, and wildfires are becoming increasingly frequent and severe. These events can have catastrophic consequences, including loss of life, damage to infrastructure, and long-term economic impacts.
 

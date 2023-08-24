@@ -1,5 +1,3 @@
-Types of Artificial Intelligence
-===================================================================================================
 
 This chapter provides an overview of the background and fundamentals of artificial intelligence (AI) and explores the different types of AI.
 

@@ -1,5 +1,3 @@
-Challenges and Limitations of AI in Disaster Management
-=====================================================================================================
 
 Artificial intelligence (AI) has the potential to revolutionize disaster management by improving our ability to respond to natural disasters. However, there are also challenges and limitations to the use of AI in disaster management that must be addressed. This chapter will outline some of the key challenges and limitations of AI in disaster management.
 

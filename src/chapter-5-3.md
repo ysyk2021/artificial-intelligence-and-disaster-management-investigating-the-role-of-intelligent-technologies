@@ -1,5 +1,3 @@
-Disaster Response and Recovery Planning
-============================================================================================
 
 Effective disaster response and recovery planning is critical for mitigating the damage caused by natural disasters. In recent years, advances in artificial intelligence (AI) have led to the development of AI-powered solutions for disaster response and recovery planning.
 

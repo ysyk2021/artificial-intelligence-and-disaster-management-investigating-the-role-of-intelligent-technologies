@@ -1,5 +1,3 @@
-Chapter 5: AI-Powered Disaster Management Solutions
-===================================================
 
 As natural disasters increase in frequency and severity, the need for efficient and effective disaster management solutions becomes ever more critical. Fortunately, advances in artificial intelligence (AI) are providing innovative ways to improve disaster management.
 

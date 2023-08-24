@@ -1,5 +1,3 @@
-Chapter 4: Role of AI in Disaster Management
-============================================
 
 Disasters can strike at any time and anywhere, causing significant loss of life, property damage, and economic disruption. The use of Artificial Intelligence (AI) has the potential to improve disaster management efforts by providing early warning systems, predicting the severity and impact of a disaster, facilitating rescue operations, and aiding in post-disaster recovery. However, the successful implementation of AI in disaster management also poses several challenges and limitations.
 

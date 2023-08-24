@@ -1,5 +1,3 @@
-Sustainable Practices
-=========================================================================
 
 Natural disasters can have a significant impact on the environment, and disaster management efforts must take into account the need to minimize environmental damage and promote sustainability. In recent years, advances in artificial intelligence (AI) have led to the development of AI-powered solutions for promoting sustainable practices in disaster management.
 

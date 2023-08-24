@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Disaster Management
-====================================================================================
 
 Background
 ----------

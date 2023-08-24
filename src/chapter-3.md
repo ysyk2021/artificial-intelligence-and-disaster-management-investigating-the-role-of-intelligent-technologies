@@ -1,5 +1,3 @@
-Chapter 3: Natural Disasters and their Impacts
-==============================================
 
 Natural disasters can have severe impacts on both society and the environment. Understanding the types of natural disasters and their effects is essential for effective disaster management planning.
 

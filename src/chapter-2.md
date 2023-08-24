@@ -1,5 +1,3 @@
-Chapter 2: Background and Fundamentals of Artificial Intelligence
-=================================================================
 
 Artificial intelligence (AI) is a rapidly growing field that is transforming many aspects of our lives, including disaster management. This chapter provides an overview of the history, types, and machine learning techniques of AI.
 

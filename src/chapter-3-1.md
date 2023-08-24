@@ -1,5 +1,3 @@
-Types of Natural Disasters
-==========================================================================
 
 Natural disasters are events caused by natural phenomena that can cause significant damage to human life, property, and infrastructure. Here are some of the most common types of natural disasters.
 

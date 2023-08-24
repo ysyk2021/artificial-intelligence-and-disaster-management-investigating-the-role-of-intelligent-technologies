@@ -1,5 +1,3 @@
-Legal Framework
-=========================================================================================
 
 As artificial intelligence (AI) becomes increasingly integrated into disaster management, it is important to consider the ethical and legal issues that arise from its use. This chapter will focus on the legal framework surrounding the use of AI in disaster management.
 

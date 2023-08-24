@@ -1,5 +1,3 @@
-Remote Sensing and Satellite Imagery Analysis
-==================================================================================================
 
 One of the key challenges in disaster management is obtaining accurate and timely information about the impacts of a natural disaster. Traditional methods of data collection can be slow and labor-intensive, making it difficult for disaster management teams to respond effectively. However, advances in artificial intelligence (AI) are enabling new approaches to disaster response, including remote sensing and satellite imagery analysis.
 

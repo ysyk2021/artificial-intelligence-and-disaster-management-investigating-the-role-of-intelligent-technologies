@@ -1,5 +1,3 @@
-Effects on Society and Environment
-==================================================================================
 
 Natural disasters are catastrophic events that occur due to natural processes and cause significant damage to the environment and society. These disasters can be caused by a variety of factors, including geological, hydrological, meteorological, and biological phenomena. The impacts of natural disasters can have profound effects on both the environment and society, leading to loss of life, property and infrastructure damage, and economic hardship.
 

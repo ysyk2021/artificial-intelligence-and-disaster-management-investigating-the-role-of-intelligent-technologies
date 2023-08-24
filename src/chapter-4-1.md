@@ -1,5 +1,3 @@
-Benefits of AI in Disaster Management
-===================================================================================
 
 This chapter explores the role of artificial intelligence (AI) in disaster management and the benefits it offers for responding to natural disasters.
 

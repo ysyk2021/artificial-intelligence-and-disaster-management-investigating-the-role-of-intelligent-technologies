@@ -1,5 +1,3 @@
-History of Artificial Intelligence
-=====================================================================================================
 
 This chapter provides an overview of the history of artificial intelligence (AI) and explores the major milestones in the development of intelligent technologies.
 

@@ -1,5 +1,3 @@
-Early Warning Systems
-==========================================================================
 
 Early warning systems are critical components of disaster management, allowing authorities to prepare for and respond to natural disasters in a timely and effective manner. In recent years, advances in artificial intelligence (AI) have led to the development of AI-powered early warning systems that can provide real-time insights into potential disasters.
 

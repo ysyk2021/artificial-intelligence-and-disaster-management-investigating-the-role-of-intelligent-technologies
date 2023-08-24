@@ -1,5 +1,3 @@
-Ethical Considerations
-================================================================================================
 
 The use of artificial intelligence (AI) in disaster management has the potential to revolutionize our ability to respond to natural disasters. However, the use of AI also raises a range of ethical considerations related to privacy, security, and accountability. In this chapter, we will outline some of the key ethical considerations related to the use of AI in disaster management.
 
