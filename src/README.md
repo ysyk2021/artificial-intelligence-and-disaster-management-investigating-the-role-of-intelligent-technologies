@@ -8,3 +8,7 @@ In this book, we will explore topics such as predictive modeling, risk reduction
 Whether you are an emergency responder, humanitarian aid worker, or researcher, this book offers valuable insights and perspectives on the role of AI in disaster management. By exploring the possibilities and limitations of AI technologies in responding to natural disasters, we can work towards more effective and equitable disaster management practices that prioritize the safety and well-being of all communities impacted by natural disasters.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
