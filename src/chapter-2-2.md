@@ -1,5 +1,4 @@
-Chapter 3: Types of Artificial Intelligence
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various types of artificial intelligence (AI) and their relevance in the context of disaster management. Understanding the different categories of AI is crucial for comprehending the capabilities and limitations of intelligent technologies in responding to natural disasters. This chapter provides an overview of major types of AI systems and their applications.
 

@@ -1,5 +1,4 @@
-Chapter 5: Early Warning Systems
-================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the role of artificial intelligence (AI) in early warning systems for natural disasters. Early warning systems play a crucial role in mitigating the impact of disasters by providing timely and accurate information to communities at risk. This chapter examines how AI technologies are enhancing early warning systems and enabling more effective disaster preparedness and response.
 

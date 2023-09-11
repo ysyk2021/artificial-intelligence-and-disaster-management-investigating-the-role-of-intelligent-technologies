@@ -1,5 +1,4 @@
-Chapter 2: History of Artificial Intelligence
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the fascinating history of artificial intelligence (AI) and its evolution over the years. Understanding the historical context and key milestones in AI development is crucial to comprehend the role of intelligent technologies in disaster management. This chapter provides an overview of significant breakthroughs, influential researchers, and the progression of AI from its inception to the present day.
 

@@ -1,5 +1,4 @@
-Chapter 4: Benefits of AI in Disaster Management
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the numerous benefits that artificial intelligence (AI) brings to disaster management. Intelligent technologies have the potential to revolutionize the way we respond to natural disasters, offering new capabilities and enhancing decision-making processes. This chapter highlights the key advantages of AI in disaster management and its impact on improving overall response efforts.
 

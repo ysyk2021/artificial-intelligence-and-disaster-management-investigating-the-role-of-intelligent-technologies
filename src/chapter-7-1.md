@@ -1,5 +1,4 @@
-Chapter 6: Ethical Considerations
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the ethical considerations surrounding the use of artificial intelligence (AI) in disaster management. While AI offers tremendous potential for improving response and recovery efforts, it is crucial to address ethical concerns to ensure responsible and equitable deployment of intelligent technologies. This chapter highlights key ethical considerations and provides guidelines for practitioners and policymakers in the field of AI-driven disaster management.
 

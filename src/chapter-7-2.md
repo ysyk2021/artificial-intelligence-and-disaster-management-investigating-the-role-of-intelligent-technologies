@@ -1,5 +1,4 @@
-Chapter 7: Legal Framework
-==========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will examine the legal considerations and framework surrounding the use of artificial intelligence (AI) in disaster management. As AI technologies play an increasingly significant role in responding to natural disasters, it is crucial to develop a legal framework that addresses ethical, privacy, liability, and regulatory concerns. This chapter explores key legal aspects related to the deployment and governance of AI in disaster management.
 

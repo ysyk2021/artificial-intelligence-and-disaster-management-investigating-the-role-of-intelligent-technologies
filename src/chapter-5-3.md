@@ -1,5 +1,4 @@
-Chapter 4: Disaster Response and Recovery Planning
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the role of artificial intelligence (AI) in disaster response and recovery planning. The integration of intelligent technologies plays a crucial role in enhancing the effectiveness, efficiency, and resilience of response efforts following natural disasters. This chapter provides an overview of AI applications and strategies for disaster response and recovery planning.
 

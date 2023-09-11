@@ -1,5 +1,4 @@
-Chapter 9: Carbon Footprint Reduction in Artificial Intelligence and Disaster Management
-========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of carbon footprint reduction in the context of artificial intelligence (AI) and disaster management. As intelligent technologies play a significant role in responding to natural disasters, it is crucial to consider environmental sustainability and minimize the carbon footprint associated with AI-driven response efforts. This chapter examines various strategies and practices that can be adopted to reduce the carbon footprint in AI-enabled disaster management.
 

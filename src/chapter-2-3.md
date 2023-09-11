@@ -1,5 +1,4 @@
-Chapter 5: Machine Learning Techniques
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the various machine learning techniques that play a crucial role in leveraging artificial intelligence (AI) for disaster management. Machine learning algorithms have the ability to analyze vast amounts of data, identify patterns, and make predictions, enabling more efficient and effective response strategies. This chapter provides an overview of popular machine learning techniques and their applications in disaster management.
 

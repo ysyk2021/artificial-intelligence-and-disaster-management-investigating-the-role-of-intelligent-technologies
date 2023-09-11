@@ -1,5 +1,4 @@
-Chapter 2: Types of Natural Disasters
-=====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore different types of natural disasters that pose significant challenges to societies worldwide. Understanding the characteristics and impacts of these disasters is crucial for developing effective strategies and utilizing artificial intelligence (AI) in disaster management. This chapter provides an overview of various natural disasters and discusses their unique features, challenges, and potential AI applications.
 

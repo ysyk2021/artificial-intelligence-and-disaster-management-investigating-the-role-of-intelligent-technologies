@@ -1,5 +1,4 @@
-Chapter 10: Challenges and Limitations of AI in Disaster Management
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will examine the challenges and limitations associated with the use of artificial intelligence (AI) in disaster management. While AI technologies offer significant potential for enhancing response efforts, it is essential to understand and address the inherent challenges and limitations to ensure responsible and effective implementation. This chapter highlights key obstacles and considerations that need to be taken into account when utilizing AI in the context of disaster management.
 

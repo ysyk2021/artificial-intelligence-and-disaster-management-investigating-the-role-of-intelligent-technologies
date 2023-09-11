@@ -1,5 +1,4 @@
-Chapter 8: Effects on Society and Environment
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the effects of artificial intelligence (AI) in disaster management on society and the environment. While AI technologies offer significant potential for improving response and recovery efforts, it is crucial to understand their broader implications and impacts. This chapter examines the societal and environmental effects of AI in disaster management and discusses strategies for maximizing benefits while minimizing potential risks and negative consequences.
 

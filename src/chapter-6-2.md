@@ -1,5 +1,4 @@
-Chapter 7: Sustainable Practices in Artificial Intelligence and Disaster Management
-===================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the importance of sustainable practices in the context of artificial intelligence (AI) and disaster management. As intelligent technologies play a significant role in responding to natural disasters, it is vital to consider sustainability principles to ensure long-term effectiveness and minimize negative environmental and social impacts. This chapter explores various sustainable practices that can be integrated into AI-driven disaster management strategies.
 
